@@ -13,6 +13,7 @@
 		852BC047258352F700A43365 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 852BC045258352F700A43365 /* Main.storyboard */; };
 		852BC049258352FA00A43365 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 852BC048258352FA00A43365 /* Assets.xcassets */; };
 		852BC04C258352FA00A43365 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 852BC04A258352FA00A43365 /* LaunchScreen.storyboard */; };
+		852BC0552585FFD200A43365 /* music.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 852BC0542585FFD200A43365 /* music.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		852BC048258352FA00A43365 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		852BC04B258352FA00A43365 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		852BC04D258352FA00A43365 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		852BC0542585FFD200A43365 /* music.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = music.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		852BC03E258352F700A43365 /* 利用 CAEmitterLayer 製作 Xmas 的下雪動畫 */ = {
 			isa = PBXGroup;
 			children = (
+				852BC0542585FFD200A43365 /* music.mp4 */,
 				852BC03F258352F700A43365 /* AppDelegate.swift */,
 				852BC041258352F700A43365 /* SceneDelegate.swift */,
 				852BC043258352F700A43365 /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			files = (
 				852BC04C258352FA00A43365 /* LaunchScreen.storyboard in Resources */,
 				852BC049258352FA00A43365 /* Assets.xcassets in Resources */,
+				852BC0552585FFD200A43365 /* music.mp4 in Resources */,
 				852BC047258352F700A43365 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
